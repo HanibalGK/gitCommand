@@ -1,1 +1,2 @@
 this is git gz commit test
+this is second gz commit test from cmd
